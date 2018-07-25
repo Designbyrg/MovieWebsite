@@ -1,0 +1,41 @@
+Package Report
+
+-----------------------------------------------------------------------------
+Document:
+Name: SinglePage_websitepurge.ai
+Color Mode: RGB color
+Color Profile: none
+Ruler Units: pixels
+Artboard Dimensions: 1024 px x 1908.5559 px
+Show Images in Outline Mode: OFF
+Highlight Substituted Fonts: OFF
+Highlight Substituted Glyphs: OFF
+Preserve Text Editability
+Simulate Colored Paper: OFF
+
+-----------------------------------------------------------------------------
+Spot Color Objects:
+
+-----------------------------------------------------------------------------
+Missing Fonts:NONE
+
+-----------------------------------------------------------------------------
+Protected Fonts that were not packaged:NONE
+
+-----------------------------------------------------------------------------
+Fonts:
+Cera Pro Regular (OTF)
+Cera Pro Medium (OTF)
+Cera Pro Bold (OTF)
+
+-----------------------------------------------------------------------------
+Embedded Fonts:
+NONE
+
+-----------------------------------------------------------------------------
+Missing Links:
+NONE
+
+-----------------------------------------------------------------------------
+Linked Images:
+NONE
